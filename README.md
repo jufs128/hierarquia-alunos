@@ -12,39 +12,25 @@
  #### Entrada:        
   
   3 3 6         
-
   30 35 38            
-
   1 2                     
-
   1 3                  
-
   2 3                     
-
   C 1                              
-
   C 3
-
   S 2 3
-
   S 1 2
-
   C 1
-
   M
   
  #### Saída:
-  C *
-
-  C 30
-
-  S T
-
-  S N
-
-  C *
-
-  M 1 3 2
+ 
+  C *           
+  C 30          
+  S T           
+  S N           
+  C *           
+  M 1 3 2         
   
 ## Compilação
   Na parta archives está includo um Makefile, basta digitar make na linha de comando.
